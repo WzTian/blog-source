@@ -1,0 +1,13 @@
+这是我在异国他乡看的第一部电影，也是我看的第一部 Terrance Malick 电影。
+
+<a href="http://www.flickr.com/photos/twzh_ly01/6292097935/" title="treeoflife by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6097/6292097935_ba79a06c8a.jpg" width="318" height="500" alt="treeoflife"></a>
+
+本片从一个男孩的死亡入手探讨生命，以多人物心理独白的方式缓缓抛出了"To live is to love."的命题。
+
+Malick 想讨论的生命，显然不是每个人短暂的这几十年，而是宏观上生命从无机物生发而灿烂的奇迹。
+三十五亿年前，海洋中无机的分子迸出了第一星生命的火花;三十五亿年后，任一个生命还是无法逃脱
+凋亡的宿命。种种社会角色到底只是一种错觉，在人生两端，我们只是自己。
+
+摄影上，大量的跳接和运动摄影传达出生命的律动感。古典音乐的配乐与摄影结合相当完美，在大段大段没有台词甚至没有人物
+的画面里为情绪的发展起到了主要的推动作用。
+
