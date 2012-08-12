@@ -3,7 +3,7 @@
  --------------------------------------------------------------*/
 
 #header { 
-  background: url(../../images/theme/header_shadow.gif) repeat-x left bottom;
+  /*background: url(../../images/theme/header_shadow.gif) repeat-x left bottom;*/
 }
 
 #header a:link,
@@ -19,14 +19,14 @@
 }
 
 #header h1 {
-  font: bold 410% georgia, serif; 
+  font: bold 410% 'Lato',georgia, serif; 
   letter-spacing: -1px; 
-  margin: 0;
+  margin: 0.25,0,0,0;
   float: left; 
 }
 
 #header h2 {
-  font: normal 12px verdana, arial, sans-serif;  
+  font: normal 12px 'Lato',verdana, arial, sans-serif;  
   margin: 2.35em 0.2em 0 0;
   float: right;
 }
@@ -42,14 +42,14 @@ article h2,
 article h3,
 article h4,
 article h5 { 
-  font-family: georgia, times;
-  font-weight: normal;
+  font-family: 'Lato',georgia, times;
+  font-weight: 300;
   letter-spacing: -1px;
 }
 
 article h1 { 
   font-size: 28px;
-  margin: 0 0 0.3em;  
+  margin: 0, 0, 0.2em, 0;  
 }
 
 article h1 small {
@@ -77,6 +77,13 @@ article h5 {
   background: #ffd;
   margin: 1.2em 0 0.3em;  
   border-bottom: 1px dotted #aaa;
+}
+
+article hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    width: 55%;
+    opacity: 0.9;
 }
 
 article p {
@@ -156,7 +163,7 @@ article .hentry .vcard,
 article .hentry .published {
   float: left;
   color: #a9a9a9;
-  font: normal 16px/14px helvetica, arial, verdana, sans-serif;
+  font: normal 16px/14px "Lato",helvetica, arial, verdana, sans-serif;
   letter-spacing: -1px;
   margin: 1px 0 0.6em 2px;
 }
@@ -280,7 +287,7 @@ article form.comments textarea {
 }
 
 #sidebar h3 { 
-  font: bold 14px "lucidamac bold", "lucida grande", verdana, arial, helvetica, sans-serif;
+  font: bold 14px "Lato","lucidamac bold", "lucida grande", verdana, arial, helvetica, sans-serif;
   margin: 0 0 0.5em;
 }
 
@@ -330,7 +337,7 @@ article form.comments textarea {
 }
 
 #sidebar .search .results p { 
-  font: bold 14px "lucidamac bold", "lucida grande", verdana, arial, helvetica, sans-serif;
+  font: bold 14px "Lato","lucidamac bold", "lucida grande", verdana, arial, helvetica, sans-serif;
   margin: 0 0 0.5em;
 }
 

@@ -13,8 +13,8 @@
                article form.comments { display: none; } }
 
 body {
-  background: url(../../images/theme/background.gif) repeat-x left top;
-  font: normal 12px "lucida grande", verdana, sans-serif;
+  background: url(../../images/theme/noise.png) repeat left top;
+  font: normal 14px helvetica, Arial,"lucida grande", verdana, sans-serif;
 }
 
 input,
