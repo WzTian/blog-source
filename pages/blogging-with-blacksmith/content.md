@@ -8,7 +8,7 @@
 之果断抛弃了一直想研究却看着就绝望的[Hyde](http://hyde.github.com/)，在众多的
 基于node.js的static site generator中选了一个貌似比较简单，默认页面也不那么寒碜的
 [Blacksmith](http://blacksmith.jit.su/)。今天写好了blacksmith 和 emacs 的整合
-[Github](https://github.com/WzTian/blacksmith-emacs) 之后，又手动把几篇博客转成markdown
+([Github](https://github.com/WzTian/blacksmith-emacs)) 之后，又手动把几篇博客转成markdown
 （工作量真心不大），
 于是就安心的把原来的博客撤下来了，以后vimwiki纯粹记笔记用，毕竟能在vim里直接跟随
 链接还是很不错的。
