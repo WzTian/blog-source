@@ -1,0 +1,10 @@
+{
+  "render": "archive",
+  "preview": true,
+  "theme": "./archive.html",
+  "index": false,
+  "toc": {
+    "length": 200
+  },
+  "pageLimit": 200 
+}
