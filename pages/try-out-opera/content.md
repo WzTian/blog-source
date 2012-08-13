@@ -1,0 +1,8 @@
+# Opera 试用
+
+opera next在linux下启动速度完胜火狐，ui与kde整合度也有所提高。亮点在于各种流畅的动画效果与高速的页面载入。细节设计也很用心，opera的about:config 界面在一众浏览器中绝对是独树一帜的。遗憾lastpass安装不成。不然完全有转正可能。
+
+----
+virgin mobile 又出了一款新机子，多了一个选择。
+
+
